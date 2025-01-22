@@ -1,0 +1,107 @@
+git commands
+linux cmds
+environment variable
+
+notepad++ intall
+wsl --install
+...............
+steps to push file in repo:
+
+git init
+git config user.email "user@gmail.com"
+git config user.name "username"
+
+git add -A
+git commit -m "message"
+
+git remote add origin https://github.com/Prapatjain/BL_2115000740.git
+change url -> git remote set-url origin https://newurl.com/repository.git
+git remote -v -> to check the url
+
+git push origin master(branch_name)
+----------
+create diff. branch in github repo.
+
+git checkout -b branch_name
+git push -u origin branch_name
+to check the total branches - git branch
+cd calculator(move to the location those file need to move)
+git add addition.java
+git commit -m "addition file added"
+git push origin addition(branch name)
+.....done...........   [addition.java ->filename, addition-> branch name]
+
+git checkout master(branchname) -> switch to another branch
+...............
+17/01/25
+
+1. create repo
+2. create different programs for add, sub, mul, div.
+3. create different branches of name like addition, subs...
+4. push specific program to the specific branches.
+
+telusko
+
+..
+git stash pop
+git clone
+;wq
+..............................
+18/01/25
+
+ssh key setup
+clone through ssh
+merge branches/ pull request
+
+....linux command ....
+mv to rename
+javac filename.java -> to compile 
+java filename -> to run
+nano to edit 
+ctrl+o to save
+ctlr+x to exit
+To delete the file named myfile, type the following:
+rm myfile
+To delete all the files in the mydir directory, one by one:
+rm -i mydir/*
+to remove directory ->rmdir
+
+.... programs on linux.......
+5sec. time lapse program
+single digit to number 
+min max no of random 5 3-digit no.
+odd even (1-10)
+prime no.
+..............................
+steps to set up ssh key:(refer github docs)
+
+ssh-keygen -t ed25519 -C "prapatjain@gmail.com"
+enter, enter -passphase
+cd .ssh/
+ls
+cat id_ed25519.pub
+copy the generated key(copy text before mail id)
+Add it in github
+...............................
+gitk -> to check the hierarchy of branches in gitbash
+insights -> network : to check the hierarchy of branches in github
+git restore --staged Practice_problem
+git push -f -u origin main
+ heap stack store
+feature of java with reason
+jdk jvm jre
+jvm architecture -> memory area
+garbage collection
+which variable stored in stack 
+git cherry-pick commitid
+
+................................
+access modifier
+local / global variable
+jvm architecture
+jdk / jvm / jre
+diff. types of memory area present in jvm
+oops
+java features
+is java a open source
+let const var
