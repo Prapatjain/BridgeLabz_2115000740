@@ -6,14 +6,14 @@
 <br>
 <br>
 
-## 20-01-25 Assignment-1 -> Branch: feature1
+## 20-01-2025 Assignment-1 (Branch : feature1/20-01-2025)
 Covered Java fundamentals and basic syntax.<br>
 Solved an assignment based on Java basics.<br>
 Questions based on the following concepts :-<br>
 1. Variables, Literals, Primitive Data Types, Basic I/O, Operators<br>
 2. Best Practices in Naming Convention<br><br><br>
 
-## 22-01-25 Assignment-2 -> Branch: feature2
+## 22-01-25 Assignment-2 -> (Branch : feature2/22-01-2025)
 Solved Level 1 assignment, focusing on Java basic syntax.<br>
 Solved Level 2 assignment, with advanced Java programming elements.<br>
 Strengthened understanding of beginner Java concepts.<br>
@@ -25,7 +25,7 @@ Strengthened understanding of beginner Java concepts.<br>
 6. Type Conversion<br>
 7. Taking User Input in Programs<br><br><br>
 
-## 23-01-25 Assignment-3 -> Branch: feature3
+## 23-01-2025 Assignment-3 -> (Branch : feature3/23-01-2025)
 Submission of Level 1, Level 2 and Level 3 Lab Practices. <br>
 1. Java Control Flows<br>
 2. Java boolean Data Type<br>
@@ -36,7 +36,7 @@ Submission of Level 1, Level 2 and Level 3 Lab Practices. <br>
 7. Java break and continue statement<br>
 8. Java switch Statement<br><br><br>
 
-## 25-01-25 Assignment-4 -> Branch: feature4
+## 25-01-2025 Assignment-4 (Branch : feature4/25-01-2025)
 Submission of Level 1 and Level 2 Lab Practices. <br>
 1. Java Arrays<br>
 2. Create an Array<br>
@@ -48,7 +48,7 @@ Submission of Level 1 and Level 2 Lab Practices. <br>
 8. Java 2 Dimensional Array (Matrix)<br>
 9. Accessing, finding size, etc of Multi-Dimensional Array<br><br><br>
 
-## 28-01-25 Assignment-5 -> Branch: feature5
+## 28-01-2025 Assignment-5 (Branch : feature5/28-01-2025)
 Programming Concepts needed for Java Methods.<br>
 1. User Defined Methods<br>
 2. Using Methods Multiple Times<br>
@@ -58,18 +58,35 @@ Programming Concepts needed for Java Methods.<br>
 6. Java Standard Library Methods<br>
 7. java.lang.Math class<br><br><br>
 
-## 29-01-25 Assignment-6 -> Branch: feature6
-1. Usage of Strings:<br>
-2. Handling strings and common string functions<br>
+## 29-01-2025 Assignment-6 (Branch : feature6/29-01-2025)
+1. Usage of Strings.<br>
+2. Handling strings and common string functions.<br>
 3. Functions and function parameter passing, return the value of function.<br>
-4. Usage of common Built-in Functions and build the logic<br><br><br>
+4. Usage of common Built-in Functions and build the logic.<br><br><br>
 
-## 31-01-25 Assignment-7 -> Branch: feature7
+## 31-01-2025 Assignment-7 (Branch : feature7/31-01-2025)
 1. Object-oriented Programming Language<br>
 2. Class and Object<br><br><br>
 
-## 02-02-25 Assignment-8 -> Branch: feature8
+## 02-02-2025 Assignment-8 (Branch : feature8/02-02-2025)
 Object Oriented Programming.<br>
 1. Java Constructors<br>
 2. Instance vs. Class Variables<br>
 3. Access Modifiers Level 1<br><br><br>
+
+## 04-02-2025 Assignment-9 (Branch : feature9/04-02-2025)
+1. "this" keyword is used to refernce class elements/variables.<br>
+2. "static" keyword is used to associate variables and methods directly to class.<br>
+3. "final" keyword is used to make the assignment to variables permanent and unchangeble.<br>
+4. "instanceof" operator is used to identify the class type of an object.<br><br>
+ class names : BankAccount, Book, Employee, Patient, Product, Student and Vehicle. <br><br><br>
+
+## 06-02-2025 Assignment-10 (Branch : feature10/06-02-2025)
+1. Classes vs. Objects in Java<br>
+2. Class Diagram<br>
+3. Object Diagrams<br>
+4. Sequence Diagrams<br>
+5. Association<br>
+6. Aggregation<br>
+7. Composition<br><br>
+class names : BankAndAccountHolders, CompanyAndDepartments, FacultiesAndDepartments, HospitalDoctorPatient, LibraryAndBooks, OrderCustomerProduct, SchoolAndStudents and UniversityManagement. <br><br><br>
