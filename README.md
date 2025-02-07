@@ -90,3 +90,15 @@ Object Oriented Programming.<br>
 6. Aggregation<br>
 7. Composition<br><br>
 class names : BankAndAccountHolders, CompanyAndDepartments, FacultiesAndDepartments, HospitalDoctorPatient, LibraryAndBooks, OrderCustomerProduct, SchoolAndStudents and UniversityManagement. <br><br><br>
+
+## 07-02-2025 Assignment-11 (Branch : feature11/07-02-2025)
+1. Inheritance<br>
+2. Single Level Inheritance<br>
+3. Multilevel Inheritance<br>
+4. Hierarchical Inheritance<br>
+5. Key Features of Inheritance<br>
+6. Method Overriding<br>
+7. Constructor Inheritance in Java<br>
+8. Polymorphism and Inheritance<br>
+9. Access Modifiers and Inheritance<br><br>
+class names : Animal, Employee, Vechicle , BankAccount, Person, Order, Course, Book and Device. <br><br><br>
