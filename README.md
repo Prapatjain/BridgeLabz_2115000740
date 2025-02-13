@@ -102,3 +102,22 @@ class names : BankAndAccountHolders, CompanyAndDepartments, FacultiesAndDepartme
 8. Polymorphism and Inheritance<br>
 9. Access Modifiers and Inheritance<br><br>
 class names : Animal, Employee, Vechicle , BankAccount, Person, Order, Course, Book and Device. <br><br><br>
+
+## 10-02-2025 Assignment-12 (Branch : feature12/10-02-2025)
+1. Encapsulation<br>
+2. Polymorphism<br>
+3. Interface<br>
+4. Abstract Classes<br><br>
+class names : Department, Employee, Product, Taxable , Vehicle, Insurable, BankAccount, Loanable, MedicalRecord, and FoodItem. <br><br><br>
+
+## 12-02-2025 Assignment-13 (Branch : feature13/12-02-2025)
+1. Single LinkedList<br>
+2. Double LinkedList<br>
+3. Circular LinkedList<br><br>
+class names : InventoryManagementSystem, LibraryManagementSystem, MovieManagementSystem, OnlineTicketReservationSystem, RoundRobinSchedulingAlgorithm, SocialMediaFriendConnections, StudentRecordManagement, TaskSchedular, and Undo_RedoTextEditor. <br><br><br>
+
+## 13-02-2025 Assignment-14 (Branch : feature14/13-02-2025)
+1. Stack<br>
+2. Queue<br>
+3. HashMap and Hash Function<br><br>
+class names : CheckPair, HashMapImplement, LongestConsecutiveSequence, SubarraySumZero, TwoSum, CircularTour, QueueUsingStacks, SlidingWindowMaximum, SortStack, and StockSpan. <br><br><br>
