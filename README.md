@@ -121,3 +121,41 @@ class names : InventoryManagementSystem, LibraryManagementSystem, MovieManagemen
 2. Queue<br>
 3. HashMap and Hash Function<br><br>
 class names : CheckPair, HashMapImplement, LongestConsecutiveSequence, SubarraySumZero, TwoSum, CircularTour, QueueUsingStacks, SlidingWindowMaximum, SortStack, and StockSpan. <br><br><br>
+
+## 14-02-2025 Assignment-15 (Branch : feature15/14-02-2025)
+1. Bubble Sort<br>
+2. Selection Sort<br>
+3. Quick Sort<br>
+4. Insertion Sort<br>
+5. Merge Sort<br>
+6. Heap Sort<br>
+7. Counting Sort<br><br>
+
+class names : BubbleSort, SelectionSort, QuickSort, InsertionSort, MergeSort, HeapSort, and CountingSort. <br><br><br>
+
+## 16-02-2025 Assignment-16 (Branch : feature16/16-02-2025)
+1. StringBuilder<br>
+2. StringBuffer<br>
+3. FileReader<br>
+4. InputStreamReader<br>
+5. Linear Search<br>
+6. Binary Search<br><br>
+
+class names : FirstAndLastOccurrence, FirstNegativeNumber, LinearAndBinarySearch, ReadAFileUsingFileReader, ReadAFileUsingInputStreamReader, ReadUserInputAndWriteToFile, RotatedSortedArray, SearchIn2DMatrix, WordCountInAFile, CompareBufferWithBuilder and CompareAll. <br><br><br>
+
+## 17-02-2025 Assignment-17 (Branch : feature17/17-02-2025)
+1. Understanding Big-O Notation<br>
+2. General Algorithm<br>
+3. Time and Space Complexity Optimization<br><br>
+
+class names : ArrayHashSetTreeSet, BubbleMergeQuick, LargeFileReadingEfficiency, LinearAndBinary, RecursiveVsIterativeFibonacci, and StringConcatenationPerformance. <br><br><br>
+
+## 18-02-2025 Assignment-18 (Branch : feature18/18-02-2025)
+1. Introduction to Generics<br>
+2. Type Parameters<br>
+3. Generic Classes<br>
+4. Generic Methods<br>
+5. Bounded Type Parameters<br>
+6. Wildcards<br><br>
+
+class names : Marketplace, MealGenerator, ResumeScreening, University and Warehouse. <br><br><br>
